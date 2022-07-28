@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/runner/work/liquidation/liquidation/target/release/build/typenum-56571ec3f82a8373/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/runner/work/liquidation/liquidation/target/release/build/typenum-56571ec3f82a8373/out/op.rs
